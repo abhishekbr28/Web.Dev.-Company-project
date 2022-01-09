@@ -1,0 +1,168 @@
+
+/*Navigation*/
+
+.nav-item{
+    margin: 20px;
+  
+}
+.nav-link{
+color: #ffff;
+}
+.nav-link:hover{
+    color: burlywood;
+}
+
+/* Crousal*/
+
+.title-text{
+    color:whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+    margin-bottom: 30px;
+}
+.title-img{
+    height: 500px;
+}
+.p-title{
+    font-size: 2em;
+    color: whitesmoke;
+}
+
+/*About Section */
+
+#about{
+    text-align: center;
+    padding: 3% 3%;
+    background-color: #ECF5C6;
+}
+
+.project-img{
+    width: 70%;
+}
+.p-about{
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    color: grey;
+    text-align:justify;
+}
+.heading{
+    margin-bottom: 35px;
+}
+.about-png{
+    padding: 5% 3%;
+}
+.project-img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.icon{
+    margin-top: 5px;
+    margin: 3px;
+    
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(210, 30, 30);
+    font-size: 10px;
+}
+
+/* Partner*/
+
+#partner{
+    background-color: aqua;
+    padding-top:1%  ;
+    text-align: center;
+    color: green;
+}
+.partner-img{
+    width: 60%;
+    margin: 1px;
+   
+}
+.partner-heading{
+    margin-bottom: 10px;
+}
+
+
+.text{
+    margin-top: 10px;
+    color: green;
+}
+
+/* Work*/
+
+#works{
+    text-align: center;
+
+    padding: 5% 7%;
+    background-color: #ECF5C6;
+
+}
+.p-works{
+    font-size: 1.2em;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    margin-top: 2px;
+    color: grey;
+}
+
+/*Team*/
+
+#team{
+    text-align: center;
+    padding: 4% 5%;
+    background-color: rgb(216, 227, 233);
+}
+.team-heading{
+    margin-bottom: 10px;
+}
+.team-img{
+    width: 60%;
+    margin-top: 10px;
+}
+.team-name{
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #0f9143;
+
+}
+
+/*Footer*/
+
+#footer{
+    background-color: #32454b;
+    padding: 3% 7%;
+    text-align: center;
+}
+.h3-footer{
+    color:white;
+}
+.footer-link{
+    color: whitesmoke;
+}
+.footer-item{
+    margin: 20px;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.bca{
+    color: whitesmoke;
+    text-align: left;
+    
+}
+@media(max-width:1028px){
+    #crousal{
+    text-align: center;
+  
+    }
+    .title-text{
+        font-size: 0px;
+        margin-bottom: 0px;
+    }
+}
