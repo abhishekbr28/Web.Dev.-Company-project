@@ -156,13 +156,16 @@ color: #ffff;
     text-align: left;
     
 }
+.social-icon{
+    margin: 5px;
+    padding-right: 10%;
+}
 @media(max-width:1028px){
-    #crousal{
-    text-align: center;
   
+    .social-icon{
+        margin-bottom: 15px;
     }
-    .title-text{
-        font-size: 0px;
-        margin-bottom: 0px;
+    .partner-img{
+        padding: 3%;
     }
 }
